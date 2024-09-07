@@ -68,26 +68,26 @@ let dados = [
     {
         titulo: "Câncer de Próstata",
         descricao: "O câncer de próstata é mais comum em homens mais velhos e pode ser detectado por exames como o PSA. Sintomas incluem dificuldade para urinar e dor na área pélvica.",
-        link: "#"
+        link: "https://www.saude.pr.gov.br/Pagina/Cancer-de-prostata#:~:text=O%20que%20%C3%A9%20c%C3%A2ncer%20de,depois%20do%20c%C3%A2ncer%20de%20pele."
     },
     {
         titulo: "Câncer de Colo do Útero",
         descricao: "Causado principalmente pelo HPV, o câncer de colo do útero pode ser prevenido com a vacina contra o HPV e detectado por exames como o Papanicolau.",
-        link: "#"
+        link: "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/colo-do-utero"
     },
     {
         titulo: "Câncer de Intestino",
         descricao: "Também conhecido como câncer colorretal, afeta o intestino grosso e reto. Fatores de risco incluem dieta rica em gorduras e história familiar.",
-        link: "#"
+        link: "https://www.guilhermenamur.com.br/cancer-no-intestino-causas"
     },
     {
         titulo: "Câncer de Fígado",
         descricao: "O câncer de fígado pode ser primário ou resultar de metástases. Fatores de risco incluem hepatite crônica e cirrose. Sintomas incluem dor abdominal e icterícia.",
-        link: "#"
+        link: "https://www.rededorsaoluiz.com.br/doencas/cancer-de-figado"
     },
     {
         titulo: "Câncer de Pâncreas",
         descricao: "O câncer de pâncreas é frequentemente diagnosticado em estágios avançados, o que dificulta o tratamento. Os sintomas incluem dor abdominal, perda de peso e icterícia.",
-        link: "#"
+        link: "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/pancreas#:~:text=O%20c%C3%A2ncer%20de%20p%C3%A2ncreas%20%C3%A9,em%20raz%C3%A3o%20do%20diagn%C3%B3stico%20tardio."
     }
 ];
