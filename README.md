@@ -44,14 +44,39 @@ Inersão Dev com Gemini é um projeto de desenvolvimento web que utiliza HTML, C
   *   Chat Interativo: O site incluirá um chat integrado onde os usuários poderão inserir perguntas e receber respostas baseadas em um banco de dados.
 
 <p align="center">
-<img src"(https://github.com/PedroHLcordeiro/CancerNao/issues/1#issue-2512098090) width="200" height="100" alt="Imagem 3">
+<img src="https://github.com/PedroHLcordeiro/CancerNao/issues/1#issue-2512098090" width="200" height="100" alt="Imagem 3">
 </p>
 
-
   *   Banco de Dados: Conectado ao chat, o banco de dados armazenará informações sobre sintomas, prevenção, e locais de tratamento, permitindo consultas dinâmicas e atualizadas.
+<!--
+let dados = [
+    {
+        titulo: "Avaliação de Hábitos",
+        descricao: `Descreva e avalie seus hábitos<br>
+        Copie o seguinte prompt e responda as perguntas de acordo com seus hábitos:
+        
+        Avalie os meus hábitos e me diga se são propensos ao câncer
+        Exposição ao Sol:
+        Quantas horas por dia você se expõe ao sol? Usa protetor solar regularmente?  },...
+        ];
+-->
+
   *   Funcionalidade de Pesquisa: Os usuários poderão buscar informações específicas através de um input no chat, e o sistema fornecerá respostas pertinentes com base nas informações armazenadas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08bfec4f-272c-4deb-9105-5445e71c1810" width="700" alt="Demonstração do Vídeo">
+  <figcaption>Demonstração do Vídeo</figcaption>
+</p>
+
 
 ## Tecnologias Utilizadas
 HTML5: Para a estruturação do conteúdo do site.
 CSS3: Para estilização e design responsivo.
 JavaScript: Para adicionar interatividade e armazenar um banco de dados.
+
+## Design do projeto
+Uso de tons leves e linguagem cluida, além de usar simbolos para retratar campanhas de conscientização do câncer e suas variações.
+Objetivos principais da identidade visual:
+* Acessibilidade
+* leveza e fluidez
+* simbolismo e emoção
