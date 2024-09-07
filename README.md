@@ -44,11 +44,12 @@ Inersão Dev com Gemini é um projeto de desenvolvimento web que utiliza HTML, C
   *   Chat Interativo: O site incluirá um chat integrado onde os usuários poderão inserir perguntas e receber respostas baseadas em um banco de dados.
 
 <p align="center">
-<img src="https://github.com/PedroHLcordeiro/CancerNao/issues/1#issue-2512098090" width="200" height="100" alt="Imagem 3">
+  <img src="https://github.com/user-attachments/assets/cae99cdc-033d-43ec-a7f9-2b41596de578" width="700" height="500" alt="Captura de tela 2024-09-07 191439">
 </p>
 
+
   *   Banco de Dados: Conectado ao chat, o banco de dados armazenará informações sobre sintomas, prevenção, e locais de tratamento, permitindo consultas dinâmicas e atualizadas.
-<!--
+```
 let dados = [
     {
         titulo: "Avaliação de Hábitos",
@@ -59,7 +60,7 @@ let dados = [
         Exposição ao Sol:
         Quantas horas por dia você se expõe ao sol? Usa protetor solar regularmente?  },...
         ];
--->
+```
 
   *   Funcionalidade de Pesquisa: Os usuários poderão buscar informações específicas através de um input no chat, e o sistema fornecerá respostas pertinentes com base nas informações armazenadas.
 
