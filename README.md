@@ -16,3 +16,9 @@
   <img src="https://github.com/PedroHLcordeiro/Flaseman/assets/96852030/faa08319-1122-4a7e-8fb8-77cc9136b569" width="200" height="100" alt="Imagem 1">
   <img src="https://github.com/PedroHLcordeiro/Flaseman/assets/96852030/01ac6891-f220-4481-835e-d89183fbfd76" width="200" height="100" alt="Imagem 2">
 </p>
+
+## CâncerNão! 
+
+O projeto CâncerNão foi desenvolvido pensando em divulgação de informações para prevenir o câncer usando uma página web, como algumas funcionalidades, um mapa interativo e prompts pré prontos para auxiliar os leitores a entender e prevenir a doença de forma clara e facilitanto a informação. 
+
+## Contexto geral
