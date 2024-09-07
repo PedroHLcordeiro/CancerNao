@@ -24,7 +24,10 @@ O projeto CâncerNão foi desenvolvido pensando em divulgação de informações
 
 ## Descrição do Projeto
 
-O projeto "Inersão Dev com Gemini" é uma colaboração inovadora entre o Google e a Alura. Este projeto visa a construção de um site interativo e responsivo utilizando HTML, CSS e JavaScript, aproveitando a expertise avançadas da inteligência artificial do Google Gemin
+O projeto "Inersão Dev com Gemini" é uma colaboração inovadora entre o Google e a Alura. Este projeto visa a construção de um site interativo e responsivo utilizando HTML, CSS e JavaScript, aproveitando a expertise avançadas da inteligência artificial do Google Gemini
+
+##Prompts
+Usando a tecnologia do gemini, o site tem prompt pré prontos para avaliação de saúde dos usuários, onde irão responder perguntas simples e acessíveis, e o gemini irá auxiliar com o seu conhecimento geral, ajudando em um triagem e interlocução com a área da saúde.
 
 
 ## Contexto Social
@@ -69,14 +72,20 @@ let dados = [
   <figcaption>Demonstração do Vídeo</figcaption>
 </p>
 
+  * Uso de um mapa interativo para passar informações visuais de maneira mais acessível
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e6cf920-ae98-4fb8-884c-37c4478732ff" width="700" alt="Demonstração do Vídeo">
+  <figcaption>Demonstração do Vídeo</figcaption>
+</p>
 
+  
 ## Tecnologias Utilizadas
 HTML5: Para a estruturação do conteúdo do site.
 CSS3: Para estilização e design responsivo.
 JavaScript: Para adicionar interatividade e armazenar um banco de dados.
 
 ## Design do projeto
-Uso de tons leves e linguagem cluida, além de usar simbolos para retratar campanhas de conscientização do câncer e suas variações.
+Uso de tons leves e linguagem fluida, além de usar simbolos para retratar campanhas de conscientização do câncer e suas variações.
 Objetivos principais da identidade visual:
 * Acessibilidade
 * leveza e fluidez
