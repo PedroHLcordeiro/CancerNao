@@ -61,7 +61,8 @@ let dados = [
         
         Avalie os meus hábitos e me diga se são propensos ao câncer
         Exposição ao Sol:
-        Quantas horas por dia você se expõe ao sol? Usa protetor solar regularmente?  },...
+        Quantas horas por dia você se expõe ao sol? Usa protetor solar regularmente?  },
+        ...
         ];
 ```
 
@@ -69,19 +70,19 @@ let dados = [
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/08bfec4f-272c-4deb-9105-5445e71c1810" width="700" alt="Demonstração do Vídeo">
-  <figcaption>Demonstração do Vídeo</figcaption>
+  <figcaption>Demonstração em Vídeo</figcaption>
 </p>
 
   * Uso de um mapa interativo para passar informações visuais de maneira mais acessível
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e6cf920-ae98-4fb8-884c-37c4478732ff" width="700" alt="Demonstração do Vídeo">
-  <figcaption>Demonstração do Vídeo</figcaption>
+  <figcaption>Demonstração em Vídeo</figcaption>
 </p>
 
   
 ## Tecnologias Utilizadas
-HTML5: Para a estruturação do conteúdo do site.
-CSS3: Para estilização e design responsivo.
+HTML: Para a estruturação do conteúdo do site.
+CSS: Para estilização e design responsivo.
 JavaScript: Para adicionar interatividade e armazenar um banco de dados.
 
 ## Design do projeto
