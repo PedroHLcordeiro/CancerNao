@@ -26,7 +26,7 @@ O projeto CâncerNão foi desenvolvido pensando em divulgação de informações
 
 O projeto "Inersão Dev com Gemini" é uma colaboração inovadora entre o Google e a Alura. Este projeto visa a construção de um site interativo e responsivo utilizando HTML, CSS e JavaScript, aproveitando a expertise avançadas da inteligência artificial do Google Gemini
 
-##Prompts
+## Prompts
 Usando a tecnologia do gemini, o site tem prompt pré prontos para avaliação de saúde dos usuários, onde irão responder perguntas simples e acessíveis, e o gemini irá auxiliar com o seu conhecimento geral, ajudando em um triagem e interlocução com a área da saúde.
 
 
